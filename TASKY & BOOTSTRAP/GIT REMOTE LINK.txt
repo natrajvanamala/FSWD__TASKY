@@ -1,0 +1,3 @@
+GIT REPOSITORY REMOTE ACCESS LINK FOR COMMAND PROMPT 
+
+git remote add origin https://github.com/natrajvanamala/BOOTSTRAP-and-DOM-MANIPULATION-USING-JS.git
